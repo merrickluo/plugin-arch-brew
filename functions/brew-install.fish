@@ -1,3 +1,3 @@
 function brew-install -d "Install packages"
-    eval $AUR -S $argv
+    eval $AUR_HELPER -S $argv
 end
