@@ -1,3 +1,3 @@
 function brew-search -d "Search for packages"
-	pacaur -Ss $argv
+	  eval $AUR -Ss $argv
 end

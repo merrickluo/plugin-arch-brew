@@ -1,3 +1,3 @@
 function brew-remove -d "Remove packages"
-	pacaur -Rcns $argv
+	  eval $AUR -Rcns $argv
 end

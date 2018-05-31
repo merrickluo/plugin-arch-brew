@@ -1,3 +1,3 @@
 function brew-install -d "Install packages"
-  pacaur -S $argv
+    eval $AUR -S $argv
 end

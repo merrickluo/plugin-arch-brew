@@ -1,3 +1,3 @@
 function brew-info -d "Print package info"
-	pacaur -Q $argv
+	  eval $AUR -Q $argv
 end

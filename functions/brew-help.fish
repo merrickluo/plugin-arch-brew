@@ -1,3 +1,3 @@
 function brew-help
-	echo "brew install"
+	  echo "brew install"
 end
